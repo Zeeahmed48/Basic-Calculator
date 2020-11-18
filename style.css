@@ -1,0 +1,61 @@
+body {
+    background-color: cadetblue;
+}
+
+.main {
+    border: 1px solid black;
+    box-shadow: 2px 2px 10px black;
+    background-color: #fff;
+    width: 700px;
+    margin: 50px auto;
+}
+
+button {
+    color: #fff;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+button:hover {
+    opacity: 0.7;
+}
+
+input {
+    background-color: grey;
+    font-size: 25px;
+    color: #fff;
+    width: 98%;
+    height: 40px;
+    margin-top: 10px;
+}
+
+input:hover {
+    opacity: 0.7;
+}
+
+.clearBtn {
+    width: 99%;
+    height: 50px;
+    margin-top: 5px;
+    background-color: gray; 
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    background-color: grey;
+    width:  171px;
+    height: 50px;
+    margin-top: 5px;
+}
+
+.halfBtn {
+    background-color: gray;
+    width: 345px;
+    height: 35px;
+    margin: 5px 0; 
+}
